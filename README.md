@@ -52,7 +52,7 @@ ___
 
 
 ### Methods
-The details of the steps from data curation to the actual classification are documented in the Jupyter notebook, so please feel free to have a look
+Details of the steps from data curation to the actual classification are documented in the Jupyter notebook, so please feel free to have a look
 
 ## Further Steps
 - Deployment as a web app (still in progress)
