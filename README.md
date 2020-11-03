@@ -5,7 +5,7 @@ Utilizing fastai to classify images of various types of alcoholic beverages
 I was interested to test out fastai to setup and run an image classificaton deep learning model. Since I am someone who enjoys whisky from time to time, I decided that running a CNN classifier on alcohol images would be a nice topic to work on. The code here is mostly adapted from what is already publicly provided by fastai (check it out at https://www.fast.ai/)
 ___
 
-## Google Colab
+## Using Google Colab
 Highly recommend to run this notebook in Google Colab. This is because the notebook was setup and tested in Google Colab, and Colab also offers a free GPU for training the model (up to 12 hours).
 ___
 
@@ -25,7 +25,7 @@ There is a 7-day trial free period for new users. If you already have an existin
 More details can be found here: https://docs.microsoft.com/en-us/bing/search-apis/bing-web-search/create-bing-search-service-resource
 
 
-### Step 1
+### Step 2
 ____________ 
 
 After you are logged in inside the Azure portal, use the search bar at the top and key in **Bing Search v7**.
@@ -60,7 +60,7 @@ Lastly, go to Keys and Endpoint to retrieve your API key
 
 
 
-### Methods
+## Methods
 Details of the steps from data curation to the actual classification are documented in the Jupyter notebook, so please feel free to have a look
 
 ## Further Steps
