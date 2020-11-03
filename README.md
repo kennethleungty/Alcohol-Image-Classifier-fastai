@@ -25,20 +25,22 @@ There is a 7-day trial free period for new users. If you already have an existin
 More details can be found here: https://docs.microsoft.com/en-us/bing/search-apis/bing-web-search/create-bing-search-service-resource
 
 
-  Step 2
-============ 
+### Step 1
+____________ 
 
 After you are logged in inside the Azure portal, use the search bar at the top and key in **Bing Search v7**.
 
 <img src="/images/azure_step2.png" width = "60%"/>
 
-== Step 3 ==  
+### Step 3
+____________
 
 You will first need to create a resource group  
 
 <img src="/images/azure_step3.png" width = "60%"/>
 
-== Step 4 ==  
+### Step 4
+____________ 
 
 After the resource group is set up, you can Add the Bing Search resource by searching for  **Bing Search v7** after clicking the Add button. Fill in the relevant fields subsequently  
 
@@ -48,13 +50,14 @@ After the resource group is set up, you can Add the Bing Search resource by sear
 
 <img src="/images/azure_step6.png" width = "60%"/>
 
-== Step 5 ==  
+### Step 5
+____________
 
 Lastly, go to Keys and Endpoint to retrieve your API key  
 
 <img src="/images/azure_step7.png" width = "60%"/>
 
-___
+
 
 
 ### Methods
