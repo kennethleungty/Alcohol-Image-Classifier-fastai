@@ -15,7 +15,7 @@ I will be leveraging the Bing Search v7 API (with Azure Account) to retrieve ima
 == Step 1 ==  
 You will need a Bing Search API key in order to obtain image datasets for your classifier. In order to retrieve the API key, you will need to first setup a Free Trial account at https://azure.microsoft.com/en-gb/free/cognitive-services/. 
 
-<img src="/images/azure_step1.png" width = "70%"/>
+<img src="/images/azure_step1.png" width = "60%"/>
 
 There is a 7-day trial free period for new users. If you already have an existing account, click on the Upgrade (Pay-As-You-Go) option (there is still a Free option to select). You will need to provide a credit card number for verification. You just need to make sure that you select the free option throughout.
 
@@ -35,17 +35,19 @@ You will first need to create a resource group
 
 == Step 4 ==  
 
-After the resource group is set up, you can add the Bing Search resource. Fill in the relevant fields subsequently  
+After the resource group is set up, you can Add the Bing Search resource by searching for  **Bing Search v7** after clicking the Add button. Fill in the relevant fields subsequently  
 
 <img src="/images/azure_step4.png" width = "60%"/>  
 
-<img src="/images/azure_step5.png" width = "60%"/>
+<img src="/images/azure_step5.png" width = "60%"/>  
+
+<img src="/images/azure_step6.png" width = "60%"/>
 
 == Step 5 ==  
 
 Lastly, go to Keys and Endpoint to retrieve your API key  
 
-<img src="/images/azure_step6.png" width = "60%"/>
+<img src="/images/azure_step7.png" width = "60%"/>
 ___
 
 
