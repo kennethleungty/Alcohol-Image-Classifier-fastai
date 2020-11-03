@@ -14,6 +14,8 @@ If you already have an existing account, click on the Upgrade option (there is s
 
 After logged in, use the search bar at the top to search for **Bing Search**.
 
+![Optional Text](../images/azure_step1.png)
+
 After the setup is complete, go directly to https://azure.microsoft.com/en-gb/try/cognitive-services/my-apis/.
 ___
 
