@@ -12,9 +12,9 @@ ___
 ## Azure API Setup
 I will be leveraging the Bing Search v7 API (with Azure Account) to retrieve images for the deep learning classification model. As I found this setup to be rather tedious, I have decided to share some details on how to set it up properly.
 
-============
-  Step 1
-============
+
+### Step 1
+____________
 
 You will need a Bing Search API key in order to obtain image datasets for your classifier. In order to retrieve the API key, you will need to first setup a Free Trial account at https://azure.microsoft.com/en-gb/free/cognitive-services/. 
 
