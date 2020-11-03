@@ -2,7 +2,7 @@
 Utilizing fastai to classify images of various types of alcoholic beverages
 
 ## Motivation
-- I was interested to try out fastai to run image classificaton. Since I am someone who enjoys tasting whisky from time to time, I decided that running a CNN classifier on alcohol images would be a nice topic to work on. The code here is mostly adapted from what is already publicly provided by fastai (check it out at https://www.fast.ai/)
+I was interested to test out fastai to setup and run an image classificaton deep learning model. Since I am someone who enjoys whisky from time to time, I decided that running a CNN classifier on alcohol images would be a nice topic to work on. The code here is mostly adapted from what is already publicly provided by fastai (check it out at https://www.fast.ai/)
 ___
 
 ## Azure API Setup
@@ -18,7 +18,7 @@ After the setup is complete, go directly to https://azure.microsoft.com/en-gb/tr
 ___
 
 ### Methods
-- The details of the steps from data curation to the actual classification are documented in the Jupyter notebook. Please have a look at the notebook.
+The details of the steps from data curation to the actual classification are documented in the Jupyter notebook. Please have a look at the notebook.
 
 ## Further Steps
 - Deployment as a web app (still in progress)
