@@ -1,7 +1,8 @@
 # Classifying Alcoholic Beverages with fast.ai and Google CoLab
 Utilizing fastai to classify images of various types of alcoholic beverages
 
-Link to view notebook: https://nbviewer.jupyter.org/github/kennethleungty/Alcohol-Image-Classifier-fastai/blob/main/Alcohol_Image_Classifier_Notebook.ipynb
+Link to view notebook: https://nbviewer.jupyter.org/github/kennethleungty/Alcohol-Image-Classifier-fastai/blob/main/Alcohol_Image_Classifier_Notebook.ipynb  
+
 Link to Medium post: *Coming soon*
 
 ## Motivation
