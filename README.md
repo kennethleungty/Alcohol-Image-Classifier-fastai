@@ -1,7 +1,8 @@
 # Classifying Alcoholic Beverages with fast.ai and Google CoLab
 Utilizing fastai to classify images of various types of alcoholic beverages
 
-Quick link to view notebook: https://nbviewer.jupyter.org/github/kennethleungty/Alcohol-Image-Classifier-fastai/blob/main/Alcohol_Image_Classifier_Notebook.ipynb
+Link to view notebook: https://nbviewer.jupyter.org/github/kennethleungty/Alcohol-Image-Classifier-fastai/blob/main/Alcohol_Image_Classifier_Notebook.ipynb
+Link to Medium post: *Coming soon*
 
 ## Motivation
 I was interested to test out fastai to setup and run an image classificaton deep learning model. Since I am someone who enjoys whisky from time to time, I decided that running a CNN classifier on alcohol images would be a nice topic to work on. The code here is mostly adapted from what is already publicly provided by fastai (check it out at https://www.fast.ai/)
@@ -64,6 +65,3 @@ Lastly, go to Keys and Endpoint to retrieve your API key
 
 ## Methods
 Details of the steps from data curation to the actual classification are documented in the Jupyter notebook, so please feel free to have a look by clicking the link below: https://nbviewer.jupyter.org/github/kennethleungty/Alcohol-Image-Classifier-fastai/blob/main/Alcohol_Image_Classifier_Notebook.ipynb
-
-## Further Steps
-- Deployment as a web app (still in progress)
