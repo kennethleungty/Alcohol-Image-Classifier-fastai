@@ -1,4 +1,4 @@
-# Classifying Alcoholic Beverages with fast.ai and Google CoLab
+# Classifying Images of Alcoholic Beverages with fast.ai and Google CoLab
 Utilizing fastai to classify images of various types of alcoholic beverages
 
 Link to Medium post: https://towardsdatascience.com/classifying-images-of-alcoholic-beverages-with-fast-ai-34c4560b5543
